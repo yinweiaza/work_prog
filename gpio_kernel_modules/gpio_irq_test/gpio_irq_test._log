@@ -1,0 +1,79 @@
+Input File::/home/yinwei/programming/c/gpio_kernel_modules/gpio_irq_test/gpio_irq_test.tex::0::0::Input File
+Input File::/usr/share/texlive/texmf-dist/tex/latex/base/article.cls::0::0::Input File
+Input Package::/usr/share/texlive/texmf-dist/tex/latex/base/article.cls::0::0::article 2007/10/19 v1.4h Standard LaTeX document class
+Input File::/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo::0::0::Input File
+Input File::/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty::0::0::Input File
+Input Package::/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty::0::0::fontspec 2012/05/06 v2.2b Advanced font selection for XeLaTeX/LuaLaTeX
+Input File::/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty::0::0::Input File
+Input File::/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3names.sty::0::0::Input File
+Input File::/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3bootstrap.sty::0::0::Input File
+Input Package::/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3bootstrap.sty::0::0::l3bootstrap 2011/12/29 v3110 L3 Experimental bootstrap code
+Input Package::/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3names.sty::0::0::l3names 2012/03/04 v3494 L3 Experimental namespace for primitives
+Input File::/usr/share/texlive/texmf-dist/tex/latex/etex-pkg/etex.sty::0::0::Input File
+Input Package::/usr/share/texlive/texmf-dist/tex/latex/etex-pkg/etex.sty::0::0::etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+Input Package::/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty::0::0::expl3 2012/04/23 v3570 L3 Experimental code bundle wrapper
+Input File::/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty::0::0::Input File
+Input Package::/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty::0::0::color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+Input File::/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg::0::0::Input File
+Package Info::/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty::130::0::Driver file: pdftex.def. (color)
+Input File::/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def::0::0::Input File
+Input File::/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty::0::0::Input File
+Input Package::/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty::0::0::infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+Input File::/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty::0::0::Input File
+Input Package::/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty::0::0::ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+Input File::/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty::0::0::Input File
+Input Package::/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty::0::0::graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+Input File::/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty::0::0::Input File
+Input Package::/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty::0::0::trig 1999/03/16 v1.09 sin cos tan (DPC)
+Input File::/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg::0::0::Input File
+Package Info::/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty::91::0::Driver file: pdftex.def. (graphics)
+Input File::/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3basics.sty::0::0::Input File
+Input Package::/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3basics.sty::0::0::l3basics 2012/03/04 v3491 L3 Experimental basic definitions
+Input File::/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3expan.sty::0::0::Input File
+Input Package::/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3expan.sty::0::0::l3expan 2012/02/26 v3460 L3 Experimental argument expansion
+Input File::/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3tl.sty::0::0::Input File
+Input Package::/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3tl.sty::0::0::l3tl 2012/03/04 v3490 L3 Experimental token lists
+Input File::/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3seq.sty::0::0::Input File
+Input Package::/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3seq.sty::0::0::l3seq 2012/03/04 v3490 L3 Experimental sequences and stacks
+Input File::/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3int.sty::0::0::Input File
+Input Package::/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3int.sty::0::0::l3int 2012/03/04 v3490 L3 Experimental integers
+Input File::/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3quark.sty::0::0::Input File
+Input Package::/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3quark.sty::0::0::l3quark 2012/02/12 v3384 L3 Experimental quarks
+Input File::/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3prg.sty::0::0::Input File
+Input Package::/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3prg.sty::0::0::l3prg 2012/03/04 v3490 L3 Experimental control structures
+Input File::/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3clist.sty::0::0::Input File
+Input Package::/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3clist.sty::0::0::l3clist 2012/03/04 v3490 L3 Experimental comma separated lists
+Input File::/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3token.sty::0::0::Input File
+Input Package::/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3token.sty::0::0::l3token 2012/03/04 v3491 L3 Experimental token manipulation
+Input File::/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3prop.sty::0::0::Input File
+Input Package::/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3prop.sty::0::0::l3prop 2012/03/04 v3490 L3 Experimental property lists
+Input File::/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3msg.sty::0::0::Input File
+Input Package::/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3msg.sty::0::0::l3msg 2012/04/23 v3568 L3 Experimental messages
+Input File::/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3file.sty::0::0::Input File
+Input Package::/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3file.sty::0::0::l3file 2012/03/09 v3520 L3 Experimental file and I/O operations
+Input File::/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3skip.sty::0::0::Input File
+Input Package::/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3skip.sty::0::0::l3skip 2012/03/05 v3499 L3 Experimental dimensions and skips
+Input File::/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3keys.sty::0::0::Input File
+Input Package::/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3keys.sty::0::0::l3keys 2012/03/03 v3487 L3 Experimental key-value interfaces
+Input File::/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3fp.sty::0::0::Input File
+Input Package::/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3fp.sty::0::0::l3fp 2012/03/04 v3490 L3 Experimental floating-point operations
+Input File::/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3box.sty::0::0::Input File
+Input Package::/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3box.sty::0::0::l3box 2012/03/04 v3490 L3 Experimental boxes
+Input File::/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3coffins.sty::0::0::Input File
+Input Package::/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3coffins.sty::0::0::l3coffins 2012/03/03 v3482 L3 Experimental coffin code layer
+Input File::/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3color.sty::0::0::Input File
+Input Package::/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3color.sty::0::0::l3color 2011/09/07 v2776 L3 Experimental colour support
+Input File::/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3luatex.sty::0::0::Input File
+Input Package::/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3luatex.sty::0::0::l3luatex 2012/02/09 v3355 L3 Experimental LuaTeX-specific functions
+Input File::/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty::0::0::Input File
+Input Package::/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty::0::0::xparse 2012/04/23 v3570 L3 Experimental document command parser
+LaTeX Error::/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty::38::0::Fatal fontspec error: "cannot-use-pdftex" |}  | !  ! The fontspec package requires either XeTeX or LuaTeX to function. !  ! You must change your typesetting engine to, e.g., "xelatex" or "lualatex" ! instead of plain "latex" or "pdflatex". !  ! See the fontspec documentation for further information. !  ! For immediate help type H <return>. !...............................................   
+LaTeX Error::/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty::38::0::  |}  | ! The fontspec package requires either XeTeX or LuaTeX to function. !  ! You must change your typesetting engine to, e.g., "xelatex" or "lualatex" ! instead of plain "latex" or "pdflatex". !  ! See the fontspec documentation for further information. !  ! For immediate help type H <return>. !...............................................   
+LaTeX Error::/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty::38::0::The fontspec package requires either XeTeX or LuaTeX to function. |}  | !  ! You must change your typesetting engine to, e.g., "xelatex" or "lualatex" ! instead of plain "latex" or "pdflatex". !  ! See the fontspec documentation for further information. !  ! For immediate help type H <return>. !...............................................   
+LaTeX Error::/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty::38::0::  |}  | ! You must change your typesetting engine to, e.g., "xelatex" or "lualatex" ! instead of plain "latex" or "pdflatex". !  ! See the fontspec documentation for further information. !  ! For immediate help type H <return>. !...............................................   
+LaTeX Error::/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty::38::0::You must change your typesetting engine to, e.g., "xelatex" or "lualatex" |}  | ! instead of plain "latex" or "pdflatex". !  ! See the fontspec documentation for further information. !  ! For immediate help type H <return>. !...............................................   
+LaTeX Error::/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty::38::0::instead of plain "latex" or "pdflatex". |}  | !  ! See the fontspec documentation for further information. !  ! For immediate help type H <return>. !...............................................   
+LaTeX Error::/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty::38::0::  |}  | ! See the fontspec documentation for further information. !  ! For immediate help type H <return>. !...............................................   
+LaTeX Error::/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty::38::0::See the fontspec documentation for further information. |}  | !  ! For immediate help type H <return>. !...............................................   
+LaTeX Error::/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty::38::0::  |}  | ! For immediate help type H <return>. !...............................................   
+LaTeX Error::/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty::38::0::For immediate help type H <return>. |}  | !...............................................   

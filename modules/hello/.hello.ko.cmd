@@ -1,0 +1,1 @@
+cmd_/home/yinwei/programming/c/modules/hello/hello.ko := arm-eabi-ld -EL -r  -T /home/yinwei/kw_study/TI-Android-ICS-4.0.3_AM335x_3.0.1/kernel/scripts/module-common.lds --build-id  -o /home/yinwei/programming/c/modules/hello/hello.ko /home/yinwei/programming/c/modules/hello/hello.o /home/yinwei/programming/c/modules/hello/hello.mod.o
